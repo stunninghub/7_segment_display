@@ -1,4 +1,5 @@
-# 7_segment_display
+# 7 Segment Display
+
 Let's create a 7 segment display just using HTML, CSS &amp; JavaScript.
 
 
